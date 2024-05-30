@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ourCrud</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="alamat_email">Alamat Email</string>
+    <string name="nomor_telepon">Nomor Telepon</string>
+    <string name="simpan">Simpan</string>
+    <string name="nama_produk">Nama Produk</string>
+    <string name="Masukan_Harga">Masukan Harga</string>
+    <string name="total_order">Total Order</string>
+    <string name="customer_name">Customer Name</string>
+    <string-array name="item_option">
+        <item>Ubah</item>
+        <item>Hapus</item>
+        <item>Batal</item>
+    </string-array>
+    <string-array name="spinner_items">
+        <item>AE</item>
+        <item>DE</item>
+        <item>ME</item>
+    </string-array>
+    <string-array name="spinner_products">
+        <item>Electronics</item>
+        <item>Fashion</item>
+        <item>Home Appliances</item>
+        <item>Books</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="spinner_status">
+        <item>Pending</item>
+        <item>Completed</item>
+        <item>Cancelled</item>
+    </string-array>
+</resources>
